@@ -11,12 +11,13 @@ You can also use one of the other agent harnesses, such as Codex, Hermes, Pi, Op
 Ollama also supports using these harnesses with select local models, such as the multiexpert gemma4 26b model.
 
 Second, it is unclear at this point how much the use of AI really helps with building a zettelkasten.
+It is probably best to limit AI to the boring and tedious tasks.
 There may be an optimal mix of automated AI intervention and manual interactive use that works best for you and your workflows.
 You will probably have to discover this mix by trial and error.
 
-Third, Andre Karpathy released LLM Wiki that you can use to build a project- or topic-specific personal wiki in Obsidian.
+Third, Andre Karpathy released [LLM Wiki](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f) that you can use to build a project- or topic-specific personal wiki in Obsidian.
 Critiques of the approach have pointed out that it does not scale well and is limited to about 100 source files. 
-Alternatives include [cherry ai](https://docs.cherry-ai.com/).
+Alternatives include [cherry studio](https://docs.cherry-ai.com/).
 
 Fourth, if you are a Claude Code user, you have discovered that Op. 4.7 burns up tokens at a faster rate than Opus 4.6.
 You probably want to fall back to Opus 4.6 or even earlier versions to perform the tasks I demonstrated. 
