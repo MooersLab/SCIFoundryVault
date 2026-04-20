@@ -22,3 +22,5 @@ Alternatives include [cherry studio](https://docs.cherry-ai.com/).
 Fourth, if you are a Claude Code user, you have discovered that Op. 4.7 burns up tokens at a faster rate than Opus 4.6.
 You probably want to fall back to Opus 4.6 or even earlier versions to perform the tasks I demonstrated. 
 The supplied valut here was based on Opus 4.6. 
+
+If you are uncomfortable with the terminal, check out this [guide](https://claudecodeguide.dev/).
